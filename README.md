@@ -12,4 +12,4 @@ you will lose.
 
 Test platforms: Windows 7 32/64
 
-Authors: Ferril, Xelcnirov, WhiteLich
+Authors: [Ferril](https://github.com/Ferril), [Xelcnirov](https://github.com/Xelcnirov), [WhiteLich](https://github.com/WhiteLich)
