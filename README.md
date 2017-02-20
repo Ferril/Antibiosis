@@ -1,2 +1,15 @@
-# Antibiosis
-Test project in python - Shoot them all game.
+This is our test project in python - game in genre Shoot them all.
+
+To start game run Game.py.
+Use WASD to move and left-button to shoot.
+The smallest objects are food for average sized enemies.
+They are invulnerable for the player's shots and are not counted 
+as an enemy.
+The biggest enemies will spawn the average ones, then die and left
+lots of food.
+Kill all enemies to win. If the number of enemies reaches it's limit -
+you will lose.
+
+Test platforms: Windows 7 32/64
+
+Authors: Ferril, Xelcnirov, WhiteLich
